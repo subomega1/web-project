@@ -1,0 +1,22 @@
+{
+  "name": "perfumes_project",
+  "version": "1.0.0",
+  "description": "site web de vente des parfums personnalisées",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parfum",
+    "website",
+    "vente",
+    "en",
+    "ligne"
+  ],
+  "author": "Ayari Nourhene",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sequelize": "^3.30.4"
+  }
+}
