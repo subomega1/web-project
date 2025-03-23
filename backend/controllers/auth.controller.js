@@ -50,3 +50,17 @@ export const signup = async (req, res) => {
     }
 
 }
+export const login = (req, res) => {
+
+    //check the user credentials note you need to encrypt the password
+    //exception handling
+
+   
+    //generate token
+    // user info name role 
+}
+export const logout = (req, res) => {
+    
+    //clear the cookie
+
+}
